@@ -1,0 +1,26 @@
+@media only screen and (max-width : 1199px) {
+	#button li a {
+	    width: 313px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+	#button li a {
+	    width: 240px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+	#button li a {
+	    width: 144px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	#button li a {
+	    width: 110px;
+	}
+}
